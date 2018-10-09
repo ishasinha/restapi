@@ -4,6 +4,7 @@ public class PatternImpl {
 
 	public static void main(String[] args)
 	{
+		//pattern
 		System.out.println("1st pattern");
 		for(int i=1;i<=5;i++)
 		{
